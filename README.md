@@ -34,7 +34,7 @@ salaryscope-regression-model-comparison/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/salaryscope-regression-model-comparison.git
+https://github.com/Ashima0518/salaryscope-regression-model-comparison
 cd salaryscope-regression-model-comparison
 
 # Create a virtual environment (optional)
